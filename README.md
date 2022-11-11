@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @laetitiaouelle
-- 👀 I’m interested in JS, PHP, Python and C#.
+- 👋 Hi, I’m @laetitiaouelle, FullStack SoftWare Engineer
+- 👀 I’m interested in Flutter, JS, PHP, Python and C#.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on IA With Python.
 - 📫 How to reach me: ouelle123ab@gmail.com...
